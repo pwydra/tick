@@ -1,0 +1,4 @@
+symbol,quantity_owned,purchase_price,cost_basis,purchase_date,tax_treatment
+GOOG,10,,20000.00,,deferred
+MSFT,10,,1234.00,,deferred
+SWPPX,100.095,,,,deferred
